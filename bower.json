@@ -1,0 +1,19 @@
+{
+  "name": "crypt-hunters",
+  "version": "1.0.0",
+  "description": "A HTML5 game where a team of adventurers brave dark crypts for treasure or to save kidnapped villagers.",
+  "authors": [
+    "Cédric Maria-Sube <cedricms@gmail.com>"
+  ],
+  "license": "GNU GENERAL PUBLIC LICENSE Version 3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "threejs": "https://raw.githubusercontent.com/mrdoob/three.js/master/build/three.min.js"
+  }
+}
